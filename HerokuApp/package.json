@@ -4,7 +4,7 @@
     "description": "imp_heroku_salesforce app",
     "main": "index.js",
     "dependencies": {
-        "pg": "*"
+        "pg": "6.3.0"
     },
     "scripts": {},
     "author": "",
